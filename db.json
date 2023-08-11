@@ -1,9 +1,84 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "position": [
+    {
+      "id": 1,
+      "description": "Contribute to design multiple projects a variety of clients brief through to execution as a member of the Creative team.",
+      "jobName": "Administrator",
+      "keyResponsibilities": [
+        "Work collaboratively with all colleagues particularly Art Directors within Creative Team to produce high standards of finished work.",
+        "To make up colour dummies for DM, Leaflet, POP & Print Advertising items for client presentation.",
+        "Review and make sure to complete the data of material supplied lists, finally checked all task completed as required by internal and complete the job bag procedures accordingly."
+      ],
+      "requirements": [
+        "Minimum of 3 working years in creative agency with 1 years of experience as Senior Designer",
+        "Experience in integrated marketing is preferred",
+        "Proficient or expert in all appropriate software",
+        "Run projects to brief, on time and within budget"
+      ]
+    },
+    {
+      "id": 2,
+      "description": "Contribute to design multiple projects a variety of clients brief through to execution as a member of the Creative team.",
+      "jobName": "Sr. Copy Writer",
+      "keyResponsibilities": [
+        "Work collaboratively with all colleagues particularly Art Directors within Creative Team to produce high standards of finished work.",
+        "To make up colour dummies for DM, Leaflet, POP & Print Advertising items for client presentation.",
+        "Review and make sure to complete the data of material supplied lists, finally checked all task completed as required by internal and complete the job bag procedures accordingly."
+      ],
+      "requirements": [
+        "Minimum of 3 working years in creative agency with 1 years of experience as Senior Designer",
+        "Experience in integrated marketing is preferred",
+        "Proficient or expert in all appropriate software",
+        "Run projects to brief, on time and within budget"
+      ]
+    },
+    {
+      "id": 3,
+      "description": "Contribute to design multiple projects a variety of clients brief through to execution as a member of the Creative team.",
+      "jobName": "Sr. Account Executive",
+      "keyResponsibilities": [
+        "Work collaboratively with all colleagues particularly Art Directors within Creative Team to produce high standards of finished work.",
+        "To make up colour dummies for DM, Leaflet, POP & Print Advertising items for client presentation.",
+        "Review and make sure to complete the data of material supplied lists, finally checked all task completed as required by internal and complete the job bag procedures accordingly."
+      ],
+      "requirements": [
+        "Minimum of 3 working years in creative agency with 1 years of experience as Senior Designer",
+        "Experience in integrated marketing is preferred",
+        "Proficient or expert in all appropriate software",
+        "Run projects to brief, on time and within budget"
+      ]
+    },
+    {
+      "id": 4,
+      "description": "Contribute to design multiple projects a variety of clients brief through to execution as a member of the Creative team.",
+      "jobName": "Account Intern",
+      "keyResponsibilities": [
+        "Work collaboratively with all colleagues particularly Art Directors within Creative Team to produce high standards of finished work.",
+        "To make up colour dummies for DM, Leaflet, POP & Print Advertising items for client presentation.",
+        "Review and make sure to complete the data of material supplied lists, finally checked all task completed as required by internal and complete the job bag procedures accordingly."
+      ],
+      "requirements": [
+        "Minimum of 3 working years in creative agency with 1 years of experience as Senior Designer",
+        "Experience in integrated marketing is preferred",
+        "Proficient or expert in all appropriate software",
+        "Run projects to brief, on time and within budget"
+      ]
+    },
+    {
+      "id": 5,
+      "description": "Contribute to design multiple projects a variety of clients brief through to execution as a member of the Creative team.",
+      "jobName": "Jr. Graphic Designer",
+      "keyResponsibilities": [
+        "Work collaboratively with all colleagues particularly Art Directors within Creative Team to produce high standards of finished work.",
+        "To make up colour dummies for DM, Leaflet, POP & Print Advertising items for client presentation.",
+        "Review and make sure to complete the data of material supplied lists, finally checked all task completed as required by internal and complete the job bag procedures accordingly."
+      ],
+      "requirements": [
+        "Minimum of 3 working years in creative agency with 1 years of experience as Senior Designer",
+        "Experience in integrated marketing is preferred",
+        "Proficient or expert in all appropriate software",
+        "Run projects to brief, on time and within budget"
+      ]
+    }
+  ]
 }
